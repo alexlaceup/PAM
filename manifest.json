@@ -1,7 +1,7 @@
 {
     "name": "Todo PWA",
     "short_name": "Todo",
-    icons: [
+    "icons": [
       {
         "src": "./assets/icon-100.png",
         "sizes": "100x100",
